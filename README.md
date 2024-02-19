@@ -64,3 +64,6 @@ http://118.98.221.131:1935/live/smil:tvedukasi.smil/playlist.m3u8
 http://video.inspira.tv:1935/inspiratv/live.sdp/playlist.m3u8
 #TVRI Nasional
 rtmp://118.97.50.102/digital//nasional
+
+
+tools : https://github.com/dianyumaida/rizkyu/issues/1
